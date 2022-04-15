@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+    font-size: large;
+    text-align: center;
+}
+h2{
+    color: brown;
+    margin-top: 40px;
+}
+h1{
+    color: rgb(55, 24, 84);
+    margin-top: 40px;
+}
+h3{
+    color: rgb(150, 84, 15);
+    margin-top: 40px;
+}
+p{
+    color: rgb(55, 24, 84);
+    margin-top: 40px;
+}
+h4{
+    color: rgb(144, 144, 22);
+    margin-top: 20px;
+    text-align: center;
+    font-size: xx-large;
+}
